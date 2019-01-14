@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">ProstirProject</string>
+    <string name="Call">Call</string>
+    <string name="Send_Message">Send Message</string>
+    <string name="connected_devices">Connected Devices</string>
+    <string name="delete_account">Delete Account</string>
+    <string name="log_out">Log Out</string>
+    <string name="add_new_account">Add new account</string>
+    <string name="description_text">Description text</string>
+    <string name="description_here">Description here</string>
+    <string name="scan_QR_Code">Scan QR Code</string>
+    <string name="enter_code_manually">Enter code manually</string>
+    <string name="enter_soft_token">Enter your soft token code</string>
+    <string name="ok">OK</string>
+    <string name="wrong_token">Wrong token!</string>
+    <string name="one_time_pass">One time pass is</string>
+    <string name="textView8">pass</string>
+    <string name="dot_text">.</string>
+    <string name="call_me_again">Call me again</string>
+    <string name="calling">Calling</string>
+    <string name="phone_image">phone image</string>
+    <string name="send_message_again">Send message again</string>
+    <string name="place_your_finger_on_the_scanner_to_proceed">Place your Finger on the Scanner to Proceed</string>
+    <string name="auth_with_pin_code">Auth with pin code</string>
+    <string name="status_image">status_image</string>
+    <string name="go_next_page">Next</string>
+    <string name="mask_for_number">-- --- -- --</string>
+    <string name="allow_multiple_devices">Allow multiple devices</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

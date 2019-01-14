@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".activity.FlowMewnuActivity">
+
+    <item
+        android:id="@+id/addNewAccountMenuItem"
+        android:title="@string/add_new_account"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/connectedDevicesMenuItem"
+        android:title="@string/connected_devices"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/deleteAccountMenuItem"
+        android:title="@string/delete_account"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/logOutMenuItem"
+        android:title="@string/log_out"
+        app:showAsAction="never"/>
+
+</menu>
